@@ -15,16 +15,17 @@ This project involves:
 9.  XgBoost with 13 features + Surprise Baseline + Surprise KNNbaseline + Matrix Factorization Techniques  
 10. XgBoost with Surprise Baseline + Surprise KNNbaseline + MF Techniques
 11. Comparision between all models:
-    THE ROOT MEAN SQUARE ERRORS FOR ALL THE MODELS AND THEIR COMBINATIONS
-    svd               1.0726046873826458
-    knn_bsl_u         1.0726493739667242
-    knn_bsl_m          1.072758832653683
-    svdpp             1.0728491944183447
-    bsl_algo          1.0730330260516174
-    xgb_knn_bsl_mu    1.0753229281412784
-    xgb_all_models     1.075480663561971
-    first_algo        1.0761851474385373
-    xgb_bsl           1.0763419061709816
-    xgb_final         1.0763580984894978
-    xgb_knn_bsl       1.0763602465199797
-    Name: rmse, dtype: object
+    THE ROOT MEAN SQUARE ERRORS FOR ALL THE MODELS AND THEIR COMBINATIONS 
+    RESULT:
+    1. svd               1.0726046873826458
+    2. knn_bsl_u         1.0726493739667242
+    3. knn_bsl_m          1.072758832653683
+    4. svdpp             1.0728491944183447
+    5. bsl_algo          1.0730330260516174
+    6. xgb_knn_bsl_mu    1.0753229281412784
+    7. xgb_all_models     1.075480663561971
+    8. first_algo        1.0761851474385373
+    9. xgb_bsl           1.0763419061709816
+    10.xgb_final         1.0763580984894978
+    11.xgb_knn_bsl       1.0763602465199797
+    
